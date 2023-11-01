@@ -1,0 +1,82 @@
+body{
+    background-image:url(img/numerique.jpg) ;
+}
+
+h1{
+    color: white;
+    text-align: left;
+}
+
+h2{
+    color: white;
+}
+.title{
+    color: white;
+    position: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.info{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.competence{
+    display: flex;
+    color: white;
+
+}
+
+.langues{
+    color: white;
+    display: flex;
+    text-align: center;
+}
+
+.experience{
+    display: flex;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    display:flex;
+    color: white;
+    text-align: center;
+}
+
+.informatique{
+    display: flex;
+    color:white;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.formation{
+    text-align: left;
+    color: white;
+
+}
+
+.qualites{
+    color: white;
+    text-align: center;
+}
+
+.centre{
+    color: white;
+    text-align: center;
+}
+
+.basdepage{
+    color: white;
+    text-align: center;
+}
+
